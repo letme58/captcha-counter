@@ -1,3 +1,4 @@
 {
-    "total_captcha_calls": 0
+      "total_captcha_calls": 0,
+      "max_captcha_calls": 300000
 }
